@@ -1,3 +1,4 @@
+![Banner](assets/A_digital_banner_image_for_an_AI-Powered_NCR_&_Roo.png)
 
 # AI-Powered Construction NCR & Root Cause Analysis System
 
